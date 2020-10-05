@@ -272,7 +272,7 @@
   'This is a required question! Please check one option from the listed below.' => 'Ini merupakan pertanyaan wajib, mohon dicentang pada pilihan yang sesuai.',
   'This is a required question! Please please fill all the fields.' => 'This is a required question! Please please fill all the fields.',
   'This is a new questionnaire {questionnaire}! Click Continue to start.' => 'This is a new questionnaire <b>{questionnaire}</b>! Click Continue button to start.',
-  'This survey has been completed' => 'Survey ini telah selesai. Terima kasih atas paritisipasi Anda.',
+  'This survey has been completed' => 'Terima kasih atas paritisipasi Anda.',
   'This survey has expired' => 'Sorry, but this survey has expired.',
   'To export results, select your preferred download format and click Export.' => 'To export results, select your preferred download format and click <b>Export</b> button.',
   'Total Participants' => 'Total Participants',

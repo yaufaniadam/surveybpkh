@@ -10,7 +10,7 @@ $this->_pageTitle = $completedTitle . ' | ' . CConfig::get('name')
 
 		<iframe width="100%" height="315" src="https://www.youtube.com/embed/tnAYZg2Nb2U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-		<br><br>Untuk informasi selengkapnya tentang BPKH, silakan kunjungi link di bawah ini:<br>
+		<br><br>Kunjungi link di bawah ini untuk mengetahui lebih lanjut tentang BPKH:<br>
 
 
 	</p>
