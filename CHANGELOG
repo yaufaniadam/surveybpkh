@@ -1,0 +1,32 @@
+APPLICATION CHANGELOG
+----------------------------
+
+Version 2.1.3
+----------------------------
+- New: added counters for Questionnaires and Participants on survey management page
+- New: added additional filters on Survey Participants Management page
+- New: added translation into Hebrew, Swedish and Turkish
+- New: added possibility to show/hide Terms and Conditions checkbox on login page
+- New: added possibility to define additional text for each survey via Backend
+- New: added possibility to generate direct login link for participants
+- New: added possibility to define participant identification by cookies or IP address for public surveys
+- New: added answers example fro each type of question
+- Enh: upgraded Framework to v1.0.3 and CMF to v2.7.2
+- Enh: added filtering by Identity code for survey participans
+- Enh: creates special view page for surveys Frontend homepage
+- Enh: changes in default test data
+- Enh: added redirection on finish page if survey was already completed
+- Bug: fixed memory allocation issue while creating export file
+- Bug: wrong redirection on trying to access login page if participant already logged in
+- Bug: fixed error on exporting all participants into survey when some participants already finished survey
+
+
+Version 2.0.1
+----------------------------
+- Bug: fixed not working recording questionnaire results to database
+
+
+Version 2.0.0
+----------------------------
+Initial release
+

@@ -1,0 +1,282 @@
+[02-Dec-2017 00:10:36 UTC] PHP Warning:  Creating default object from empty value in /home/yaufania/bpkh.site/framework/db/CDatabase.php on line 90
+[02-Dec-2017 07:16:55 Asia/Jakarta] PHP Warning:  Illegal string offset 'property_value' in /home/yaufania/bpkh.site/protected/controllers/ModulesController.php on line 198
+[02-Dec-2017 07:17:27 Asia/Jakarta] PHP Warning:  Illegal string offset 'property_value' in /home/yaufania/bpkh.site/protected/controllers/ModulesController.php on line 198
+[02-Dec-2017 07:44:56 Asia/Jakarta] PHP Warning:  Illegal string offset 'property_value' in /home/yaufania/bpkh.site/protected/controllers/ModulesController.php on line 198
+[02-Dec-2017 08:11:00 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/modules/surveys/controllers/SurveysController.php on line 1231
+[02-Dec-2017 08:11:00 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/modules/surveys/controllers/SurveysController.php on line 1938
+[15-Dec-2017 12:51:45 Asia/Jakarta] PHP Warning:  Illegal string offset 'property_value' in /home/yaufania/bpkh.site/protected/controllers/ModulesController.php on line 198
+[15-Dec-2017 15:18:48 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/modules/surveys/controllers/SurveysController.php on line 978
+[15-Dec-2017 15:18:48 Asia/Jakarta] PHP Warning:  Creating default object from empty value in /home/yaufania/bpkh.site/protected/modules/surveys/controllers/SurveysController.php on line 979
+[15-Dec-2017 15:18:48 Asia/Jakarta] PHP Fatal error:  Call to undefined method stdClass::save() in /home/yaufania/bpkh.site/protected/modules/surveys/controllers/SurveysController.php on line 981
+[16-Dec-2017 01:45:19 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 33
+[16-Dec-2017 01:45:19 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 75
+[16-Dec-2017 01:45:19 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 137
+[16-Dec-2017 01:45:19 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 139
+[16-Dec-2017 01:45:19 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 141
+[16-Dec-2017 01:45:19 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/yaufania/bpkh.site/protected/models/Modules.php on line 130
+[16-Dec-2017 01:45:19 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 33
+[16-Dec-2017 01:45:19 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 75
+[16-Dec-2017 01:45:19 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 137
+[16-Dec-2017 01:45:19 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 139
+[16-Dec-2017 01:45:19 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 141
+[16-Dec-2017 01:45:19 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/yaufania/bpkh.site/protected/models/Modules.php on line 130
+[16-Dec-2017 01:45:20 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 33
+[16-Dec-2017 01:45:20 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 75
+[16-Dec-2017 01:45:20 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 137
+[16-Dec-2017 01:45:20 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 139
+[16-Dec-2017 01:45:20 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 141
+[16-Dec-2017 01:45:20 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/yaufania/bpkh.site/protected/models/Modules.php on line 130
+[16-Dec-2017 01:45:21 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 33
+[16-Dec-2017 01:45:21 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 75
+[16-Dec-2017 01:45:21 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 137
+[16-Dec-2017 01:45:21 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 139
+[16-Dec-2017 01:45:21 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 141
+[16-Dec-2017 01:45:21 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/yaufania/bpkh.site/protected/models/Modules.php on line 130
+[16-Dec-2017 01:45:22 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 33
+[16-Dec-2017 01:45:22 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 75
+[16-Dec-2017 01:45:22 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 137
+[16-Dec-2017 01:45:22 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 139
+[16-Dec-2017 01:45:22 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 141
+[16-Dec-2017 01:45:22 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/yaufania/bpkh.site/protected/models/Modules.php on line 130
+[16-Dec-2017 01:45:22 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 33
+[16-Dec-2017 01:45:22 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 75
+[16-Dec-2017 01:45:22 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 137
+[16-Dec-2017 01:45:22 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 139
+[16-Dec-2017 01:45:22 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 141
+[16-Dec-2017 01:45:22 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/yaufania/bpkh.site/protected/models/Modules.php on line 130
+[16-Dec-2017 01:45:23 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 33
+[16-Dec-2017 01:45:23 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 75
+[16-Dec-2017 01:45:23 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 137
+[16-Dec-2017 01:45:23 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 139
+[16-Dec-2017 01:45:23 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 141
+[16-Dec-2017 01:45:23 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/yaufania/bpkh.site/protected/models/Modules.php on line 130
+[16-Dec-2017 01:45:24 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 33
+[16-Dec-2017 01:45:24 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 75
+[16-Dec-2017 01:45:24 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 137
+[16-Dec-2017 01:45:24 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 139
+[16-Dec-2017 01:45:24 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 141
+[16-Dec-2017 01:45:24 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/yaufania/bpkh.site/protected/models/Modules.php on line 130
+[16-Dec-2017 01:45:25 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 33
+[16-Dec-2017 01:45:25 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 75
+[16-Dec-2017 01:45:25 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 137
+[16-Dec-2017 01:45:25 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 139
+[16-Dec-2017 01:45:25 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 141
+[16-Dec-2017 01:45:25 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/yaufania/bpkh.site/protected/models/Modules.php on line 130
+[16-Dec-2017 01:45:25 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 33
+[16-Dec-2017 01:45:25 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 75
+[16-Dec-2017 01:45:25 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 137
+[16-Dec-2017 01:45:25 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 139
+[16-Dec-2017 01:45:25 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 141
+[16-Dec-2017 01:45:25 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/yaufania/bpkh.site/protected/models/Modules.php on line 130
+[16-Dec-2017 01:45:26 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 33
+[16-Dec-2017 01:45:26 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 75
+[16-Dec-2017 01:45:26 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 137
+[16-Dec-2017 01:45:26 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 139
+[16-Dec-2017 01:45:26 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 141
+[16-Dec-2017 01:45:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/yaufania/bpkh.site/protected/models/Modules.php on line 130
+[16-Dec-2017 09:17:25 Asia/Jakarta] PHP Warning:  Illegal string offset 'property_value' in /home/yaufania/bpkh.site/protected/controllers/ModulesController.php on line 198
+[16-Dec-2017 10:51:29 Asia/Jakarta] PHP Warning:  Illegal string offset 'property_value' in /home/yaufania/bpkh.site/protected/controllers/ModulesController.php on line 198
+[16-May-2019 20:14:17 Asia/Jakarta] PHP Warning:  Unknown: write failed: Disk quota exceeded (122) in Unknown on line 0
+[16-May-2019 20:14:17 Asia/Jakarta] PHP Warning[25-Aug-2019 13:23:44 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 33
+[25-Aug-2019 13:23:44 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 75
+[25-Aug-2019 13:23:44 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 137
+[25-Aug-2019 13:23:44 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 139
+[25-Aug-2019 13:23:44 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 141
+[25-Aug-2019 13:23:44 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/yaufania/bpkh.site/protected/models/Modules.php on line 130
+[25-Aug-2019 13:23:44 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 33
+[25-Aug-2019 13:23:44 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 75
+[25-Aug-2019 13:23:44 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 137
+[25-Aug-2019 13:23:44 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 139
+[25-Aug-2019 13:23:44 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 141
+[25-Aug-2019 13:23:44 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/yaufania/bpkh.site/protected/models/Admins.php on line 373
+[25-Aug-2019 13:23:44 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/yaufania/bpkh.site/protected/models/Admins.php on line 373
+[25-Aug-2019 13:23:45 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 33
+[25-Aug-2019 13:23:45 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 75
+[25-Aug-2019 13:23:45 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 137
+[25-Aug-2019 13:23:45 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 139
+[25-Aug-2019 13:23:45 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 141
+[25-Aug-2019 13:23:46 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 33
+[25-Aug-2019 13:23:46 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 75
+[25-Aug-2019 13:23:46 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 137
+[25-Aug-2019 13:23:46 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 139
+[25-Aug-2019 13:23:46 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 141
+[25-Aug-2019 13:23:46 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/yaufania/bpkh.site/protected/models/Modules.php on line 130
+[25-Aug-2019 13:23:46 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getFieldsAsArray() on null in /home/yaufania/bpkh.site/protected/components/Bootstrap.php:177
+Stack trace:
+#0 /home/yaufania/bpkh.site/protected/controllers/BackendController.php(74): Bootstrap->getSettings('datetime_format')
+#1 /home/yaufania/bpkh.site/framework/core/CRouter.php(218): BackendController->dashboardAction()
+#2 /home/yaufania/bpkh.site/framework/Apphp.php(522): CRouter->route()
+#3 /home/yaufania/bpkh.site/framework/Apphp.php(290): A->_runApp()
+#4 /home/yaufania/bpkh.site/index.php(24): A->run()
+#5 {main}
+  thrown in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 177
+[25-Aug-2019 13:23:50 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 33
+[25-Aug-2019 13:23:50 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 75
+[25-Aug-2019 13:23:50 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 137
+[25-Aug-2019 13:23:50 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 139
+[25-Aug-2019 13:23:50 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 141
+[25-Aug-2019 13:23:51 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 33
+[25-Aug-2019 13:23:51 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 75
+[25-Aug-2019 13:23:51 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 137
+[25-Aug-2019 13:23:51 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 139
+[25-Aug-2019 13:23:51 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 141
+[25-Aug-2019 13:23:51 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/yaufania/bpkh.site/protected/models/Modules.php on line 130
+[25-Aug-2019 13:23:51 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getFieldsAsArray() on null in /home/yaufania/bpkh.site/protected/components/Bootstrap.php:177
+Stack trace:
+#0 /home/yaufania/bpkh.site/protected/controllers/BackendController.php(74): Bootstrap->getSettings('datetime_format')
+#1 /home/yaufania/bpkh.site/framework/core/CRouter.php(218): BackendController->dashboardAction()
+#2 /home/yaufania/bpkh.site/framework/Apphp.php(522): CRouter->route()
+#3 /home/yaufania/bpkh.site/framework/Apphp.php(290): A->_runApp()
+#4 /home/yaufania/bpkh.site/index.php(24): A->run()
+#5 {main}
+  thrown in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 177
+[25-Aug-2019 13:23:57 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 33
+[25-Aug-2019 13:23:57 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 75
+[25-Aug-2019 13:23:57 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 137
+[25-Aug-2019 13:23:57 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 139
+[25-Aug-2019 13:23:57 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 141
+[25-Aug-2019 13:23:57 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/yaufania/bpkh.site/protected/models/Modules.php on line 130
+[25-Aug-2019 13:23:57 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 33
+[25-Aug-2019 13:23:57 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 75
+[25-Aug-2019 13:23:57 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 137
+[25-Aug-2019 13:23:57 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 139
+[25-Aug-2019 13:23:57 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 141
+[25-Aug-2019 13:23:57 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/yaufania/bpkh.site/protected/models/Admins.php on line 373
+[25-Aug-2019 13:23:57 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/yaufania/bpkh.site/protected/models/Admins.php on line 373
+[25-Aug-2019 13:23:59 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 33
+[25-Aug-2019 13:23:59 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 75
+[25-Aug-2019 13:23:59 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 137
+[25-Aug-2019 13:23:59 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 139
+[25-Aug-2019 13:23:59 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 141
+[25-Aug-2019 13:23:59 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 33
+[25-Aug-2019 13:23:59 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 75
+[25-Aug-2019 13:23:59 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 137
+[25-Aug-2019 13:23:59 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 139
+[25-Aug-2019 13:23:59 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 141
+[25-Aug-2019 13:23:59 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/yaufania/bpkh.site/protected/models/Modules.php on line 130
+[25-Aug-2019 13:23:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getFieldsAsArray() on null in /home/yaufania/bpkh.site/protected/components/Bootstrap.php:177
+Stack trace:
+#0 /home/yaufania/bpkh.site/protected/controllers/BackendController.php(74): Bootstrap->getSettings('datetime_format')
+#1 /home/yaufania/bpkh.site/framework/core/CRouter.php(218): BackendController->dashboardAction()
+#2 /home/yaufania/bpkh.site/framework/Apphp.php(522): CRouter->route()
+#3 /home/yaufania/bpkh.site/framework/Apphp.php(290): A->_runApp()
+#4 /home/yaufania/bpkh.site/index.php(24): A->run()
+#5 {main}
+  thrown in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 177
+[26-Aug-2019 09:35:39 UTC] PHP Warning:  Illegal string offset 'property_value' in /home/yaufania/bpkh.site/protected/controllers/ModulesController.php on line 198
+[10-Sep-2019 08:54:38 UTC] PHP Warning:  Unknown: write failed: Disk quota exceeded (122) in Unknown on line 0
+[10-Sep-2019 08:54:38 UTC] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/opt/alt/php70/var/lib/php/session) in Unknown on line 0
+[10-Sep-2019 11:25:26 UTC] PHP Warning:  Unknown: write failed: Disk quota exceeded (122) in Unknown on line 0
+[10-Sep-2019 11:25:26 UTC] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/opt/alt/php70/var/lib/php/session) in Unknown on line 0
+[10-Sep-2019 11:25:27 UTC] PHP Warning:  Unknown: write failed: Disk quota exceeded (122) in Unknown on line 0
+[10-Sep-2019 11:25:27 UTC] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/opt/alt/php70/var/lib/php/session) in Unknown on line 0
+[10-Sep-2019 11:25:33 UTC] PHP Warning:  Unknown: write failed: Disk quota exceeded (122) in Unknown on line 0
+[10-Sep-2019 11:25[11-Sep-2019 09:12:42 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 33
+[11-Sep-2019 09:12:42 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 75
+[11-Sep-2019 09:12:42 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 137
+[11-Sep-2019 09:12:42 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 139
+[11-Sep-2019 09:12:42 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 141
+[11-Sep-2019 09:12:42 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/yaufania/bpkh.site/protected/models/Modules.php on line 130
+[11-Sep-2019 09:12:43 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 33
+[11-Sep-2019 09:12:43 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 75
+[11-Sep-2019 09:12:43 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 137
+[11-Sep-2019 09:12:43 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 139
+[11-Sep-2019 09:12:43 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 141
+[11-Sep-2019 09:12:43 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/yaufania/bpkh.site/protected/models/Modules.php on line 130
+[11-Sep-2019 09:12:43 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 33
+[11-Sep-2019 09:12:43 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 75
+[11-Sep-2019 09:12:43 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 137
+[11-Sep-2019 09:12:43 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 139
+[11-Sep-2019 09:12:43 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 141
+[11-Sep-2019 09:12:43 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/yaufania/bpkh.site/protected/models/Modules.php on line 130
+[11-Sep-2019 09:12:43 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 33
+[11-Sep-2019 09:12:43 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 75
+[11-Sep-2019 09:12:43 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 137
+[11-Sep-2019 09:12:43 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 139
+[11-Sep-2019 09:12:43 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 141
+[11-Sep-2019 09:12:43 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/yaufania/bpkh.site/protected/models/Modules.php on line 130
+[11-Sep-2019 09:12:43 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 33
+[11-Sep-2019 09:12:43 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 75
+[11-Sep-2019 09:12:43 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 137
+[11-Sep-2019 09:12:43 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 139
+[11-Sep-2019 09:12:43 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 141
+[11-Sep-2019 09:12:43 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/yaufania/bpkh.site/protected/models/Modules.php on line 130
+[11-Sep-2019 09:12:44 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 33
+[11-Sep-2019 09:12:44 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 75
+[11-Sep-2019 09:12:44 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 137
+[11-Sep-2019 09:12:44 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 139
+[11-Sep-2019 09:12:44 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 141
+[11-Sep-2019 09:12:44 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/yaufania/bpkh.site/protected/models/Modules.php on line 130
+[11-Sep-2019 09:12:44 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 33
+[11-Sep-2019 09:12:44 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 75
+[11-Sep-2019 09:12:44 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 137
+[11-Sep-2019 09:12:44 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 139
+[11-Sep-2019 09:12:44 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 141
+[11-Sep-2019 09:12:44 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/yaufania/bpkh.site/protected/models/Modules.php on line 130
+[11-Sep-2019 09:12:44 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 33
+[11-Sep-2019 09:12:44 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 75
+[11-Sep-2019 09:12:44 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 137
+[11-Sep-2019 09:12:44 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 139
+[11-Sep-2019 09:12:44 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 141
+[11-Sep-2019 09:12:44 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/yaufania/bpkh.site/protected/models/Modules.php on line 130
+[11-Sep-2019 09:12:44 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 33
+[11-Sep-2019 09:12:44 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 75
+[11-Sep-2019 09:12:44 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 137
+[11-Sep-2019 09:12:44 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 139
+[11-Sep-2019 09:12:44 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 141
+[11-Sep-2019 09:12:44 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/yaufania/bpkh.site/protected/models/Modules.php on line 130
+[11-Sep-2019 09:12:44 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 33
+[11-Sep-2019 09:12:44 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 75
+[11-Sep-2019 09:12:44 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 137
+[11-Sep-2019 09:12:44 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 139
+[11-Sep-2019 09:12:44 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 141
+[11-Sep-2019 09:12:44 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/yaufania/bpkh.site/protected/models/Modules.php on line 130
+[11-Sep-2019 09:12:44 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 33
+[11-Sep-2019 09:12:44 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 75
+[11-Sep-2019 09:12:44 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 137
+[11-Sep-2019 09:12:44 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 139
+[11-Sep-2019 09:12:44 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 141
+[11-Sep-2019 09:12:44 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/yaufania/bpkh.site/protected/models/Modules.php on line 130
+[11-Sep-2019 09:12:45 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 33
+[11-Sep-2019 09:12:45 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 75
+[11-Sep-2019 09:12:45 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 137
+[11-Sep-2019 09:12:45 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 139
+[11-Sep-2019 09:12:45 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 141
+[11-Sep-2019 09:12:45 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/yaufania/bpkh.site/protected/models/Modules.php on line 130
+[11-Sep-2019 09:12:45 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 33
+[11-Sep-2019 09:12:45 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 75
+[11-Sep-2019 09:12:45 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 137
+[11-Sep-2019 09:12:45 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 139
+[11-Sep-2019 09:12:45 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 141
+[11-Sep-2019 09:12:45 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/yaufania/bpkh.site/protected/models/Modules.php on line 130
+[11-Sep-2019 09:12:45 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 33
+[11-Sep-2019 09:12:45 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 75
+[11-Sep-2019 09:12:45 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 137
+[11-Sep-2019 09:12:45 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 139
+[11-Sep-2019 09:12:45 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 141
+[11-Sep-2019 09:12:45 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/yaufania/bpkh.site/protected/models/Modules.php on line 130
+[11-Sep-2019 09:12:45 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 33
+[11-Sep-2019 09:12:45 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 75
+[11-Sep-2019 09:12:45 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 137
+[11-Sep-2019 09:12:45 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 139
+[11-Sep-2019 09:12:45 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 141
+[11-Sep-2019 09:12:45 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/yaufania/bpkh.site/protected/models/Modules.php on line 130
+[11-Sep-2019 09:12:45 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 33
+[11-Sep-2019 09:12:45 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 75
+[11-Sep-2019 09:12:45 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 137
+[11-Sep-2019 09:12:45 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 139
+[11-Sep-2019 09:12:45 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 141
+[11-Sep-2019 09:12:45 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/yaufania/bpkh.site/protected/models/Modules.php on line 130
+[11-Sep-2019 09:12:45 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 33
+[11-Sep-2019 09:12:45 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 75
+[11-Sep-2019 09:12:45 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 137
+[11-Sep-2019 09:12:45 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 139
+[11-Sep-2019 09:12:45 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 141
+[11-Sep-2019 09:12:45 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/yaufania/bpkh.site/protected/models/Modules.php on line 130
+[11-Sep-2019 09:12:45 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 33
+[11-Sep-2019 09:12:45 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 75
+[11-Sep-2019 09:12:45 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 137
+[11-Sep-2019 09:12:45 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 139
+[11-Sep-2019 09:12:45 UTC] PHP Notice:  Trying to get property of non-object in /home/yaufania/bpkh.site/protected/components/Bootstrap.php on line 141
+[11-Sep-2019 09:12:45 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/yaufania/bpkh.site/protected/models/Modules.php on line 130
+[11-Sep-2019 09:12:46 UTC] PHP Notice:  

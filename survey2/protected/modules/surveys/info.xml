@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<install version="1.0" type="module">
+    <name>Surveys</name>
+    <description>Surveys module allows creating and managing online surveys</description>
+    <version>0.0.2</version>
+    <creationDate>01/08/2013</creationDate>
+    <lastChangedDate>09/05/2017</lastChangedDate>
+    <author>ApPHP</author>
+    <authorEmail>info@apphp.com</authorEmail>
+    <authorUrl>http://www.apphp.com</authorUrl>
+    <copyright>ApPHP</copyright>
+    <license>LGPL</license>
+    <manual></manual>
+    <icon>assets/modules/surveys/images/icon.png</icon>
+    <moduleType>system</moduleType>
+    <code>surveys</code>
+	<requirements>
+		<framework>1.0.0</framework>
+	</requirements>	
+    <files>
+        <filename>info.xml</filename>
+        <components>
+            <filename>SurveysComponent.php</filename>
+        </components>
+        <config installationPath="protected/config/">
+            <filename exclude="yes">main.php</filename>
+            <filename>surveys.php</filename>
+        </config>
+		<controllers>
+            <filename>SurveyParticipantsController.php</filename>
+            <filename>SurveyQuestionnaireItemsController</filename>
+            <filename>SurveyQuestionnairesController</filename>
+            <filename>SurveysController.php</filename>
+			<filename>SurveysHomepageController.php</filename>
+			<filename>SurveysParticipantsController.php</filename>
+            <filename>SurveysQuestionTypesController.php</filename>
+		</controllers>        
+        <data>
+			<delete>delete.test.mysql.sql</delete>
+            <install>install.mysql.sql</install>
+            <uninstall>uninstall.mysql.sql</uninstall>
+			<update>
+				<filename>update.002.mysql.sql</filename>
+			</update>
+        </data>
+        <images installationPath="assets/modules/surveys/images/" byDirectory="true">
+            <filename>icon.png</filename>
+            <filename>multiple_choice_one_answer.png</filename>
+            <filename>survey_expired.png</filename>
+            <filename>survey_completed.png</filename>
+            <filename>icon_download.png</filename>
+            <filename>icon_copy.png</filename>
+        </images>
+        <icons installationPath="templates/backend/images/icons/">
+            <filename>surveys.png</filename>
+        </icons>
+        <css installationPath="assets/modules/surveys/css/" byDirectory="true">
+            <filename>surveys.css</filename>
+        </css>
+        <js installationPath="assets/modules/surveys/js/" byDirectory="true">
+            <filename>surveys.js</filename>
+        </js>
+        <messages installationPath="protected/messages/*">
+            <en default="true">
+                <filename>surveys.php</filename>
+            </en>
+            <he>
+                <filename>surveys.php</filename>
+            </he>
+            <sv>
+                <filename>surveys.php</filename>
+            </sv>
+            <tr>
+                <filename>surveys.php</filename>
+            </tr>
+        </messages>
+        <models>
+            <filename>SurveyParticipants.php</filename>
+            <filename>SurveyQuestionnaireItems.php</filename>
+            <filename>SurveyQuestionnaires.php</filename>
+            <filename>Surveys.php</filename>
+            <filename>SurveysParticipants.php</filename>            
+            <filename>SurveysQuestionTypes.php</filename>
+        </models>
+        <views>
+            <surveyparticipants>
+                <filename>add.php</filename>
+                <filename>edit.php</filename>
+                <filename>manage.php</filename>
+            </surveyparticipants>
+            <surveyquestionnaireitems>
+                <filename>add.php</filename>
+                <filename>edit.php</filename>
+                <filename>manage.php</filename>
+            </surveyquestionnaireitems>
+            <surveyquestionnaires>
+                <filename>add.php</filename>
+				<filename>copy.php</filename>
+                <filename>edit.php</filename>
+                <filename>manage.php</filename>
+            </surveyquestionnaires>
+            <surveys>
+                <filename>add.php</filename>
+				<filename>completed.php</filename>
+                <filename>copy.php</filename>
+                <filename>edit.php</filename>
+				<filename>error.php</filename>
+				<filename>expired.php</filename>
+				<filename>login.php</filename>
+                <filename>manage.php</filename>
+				<filename>results.php</filename>
+				<filename>show.php</filename>
+            </surveys>
+			<syrveyshomepage>
+				<filename>index.php</filename>
+			</syrveyshomepage>
+            <surveysparticipants>
+                <filename>add.php</filename>
+                <filename>edit.php</filename>
+				<filename>export.php</filename>
+                <filename>manage.php</filename>
+            </surveysparticipants>
+			<surveysquestiontypes>
+				<filename>details.php</filename>
+				<filename>manage.php</filename>
+			</surveysquestiontypes>
+        </views>
+    </files>
+</install>
